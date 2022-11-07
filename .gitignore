@@ -11,3 +11,11 @@ pom.xml
 .lein-repl-history
 i-am-a-horse-in-the-land-of-booleans.iml
 .idea
+
+/clj-kondo
+**/.clj-kondo/.cache
+performance.txt
+clj-kondo*.snap
+.planck_cache
+
+.lsp
